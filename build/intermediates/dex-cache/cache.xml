@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\GRAPH-DESIGN\CoursAndroid\InstagramClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\GRAPH-DESIGN\CoursAndroid\InstagramClient\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-78e67863084bbd8b648bb643e4fadd82d271b34e.jar" />
+    </item>
+    <item
+        jar="C:\Users\GRAPH-DESIGN\Android-SDK\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\GRAPH-DESIGN\CoursAndroid\InstagramClient\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-83fb7cd16e91d215aaeb949e8bf0b0fcde44fa9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\GRAPH-DESIGN\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.5\77bf7cacf9cefe19dc105e5425d2eb1bb5285881\android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="C:\Users\GRAPH-DESIGN\CoursAndroid\InstagramClient\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.5-6e7814a984cc776be6eac1bb2bce6cc68309be1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\GRAPH-DESIGN\CoursAndroid\InstagramClient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\GRAPH-DESIGN\CoursAndroid\InstagramClient\app\build\intermediates\pre-dexed\debug\classes-9f43e6b9e5253887b2633dd36364154f2c7615bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\GRAPH-DESIGN\CoursAndroid\InstagramClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\GRAPH-DESIGN\CoursAndroid\InstagramClient\app\build\intermediates\pre-dexed\debug\classes-a271ccbaaaef5b48c2eca2d648aa9e60285e4eeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\GRAPH-DESIGN\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\GRAPH-DESIGN\CoursAndroid\InstagramClient\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-2af07e084a840865085c60ffe38088c034ae3afa.jar" />
+    </item>
+
+</items>
